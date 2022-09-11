@@ -1,6 +1,6 @@
 # Proposal
 ## Permasalahan
-Masih adanya sistem absensi  manual di perusahaan yang kurang terstruktur, jadi bagaimana cara menampilkan dan membuat laporan dari sistem absensi karyawan sehingga lebih terstruktur dan mudah dimonitor.
+Masih adanya sistem absensi  manual di perusahaan yang kurang terstruktur.
 
 ## Rancangan solusi
 -	Menganalisa alur kerja pada proses input absensi pegawai pada CV.Karisma , dengan melakukan proses wawancara dengan pihak Personalia.
