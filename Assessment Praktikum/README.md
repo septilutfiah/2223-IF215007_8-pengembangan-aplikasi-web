@@ -1,1 +1,29 @@
+## Workshop Class
 
+Asesmen| Bukti Screenshot
+---|---
+Git installation | 
+Github project initialization | ![Github_Project](https://user-images.githubusercontent.com/112858041/209049447-52c21694-84e5-4e69-bec8-9d3ba4a6ee1f.png)
+Hoppscotch / Postman access | ![Hoppscotch](https://user-images.githubusercontent.com/112858041/209047255-c26c428e-d4dd-450d-99ed-a1ef336e1873.png)
+Javascrip & Composer Installation & hello word |
+PostgreSQL / MySQL | ![PostgresSQL](https://user-images.githubusercontent.com/112858041/209044606-d1c6ed1c-f5bf-4e18-918a-277ac092ebd2.png)
+DBeaver installation DB connection | ![DBeaver](https://user-images.githubusercontent.com/112858041/209045635-34f07919-ad1d-4c28-b3d7-a45629161f57.png)
+MobaXtrem installation & SSH connection | ![MobaXtrem](https://user-images.githubusercontent.com/112858041/209047972-1c67ed9f-15f7-46dc-9c8a-ee560f4d9ca0.png)
+NodeJS & NPM installation, operation & hello world | ![NodeJS NPM](https://user-images.githubusercontent.com/112858041/209049231-7e50cb70-b568-4a4e-bef0-5d90d2bbcb3b.png)
+Linux server operation |
+Nginx / Apache web server installation & operation |
+Cpanel operation |
+Domain registration |
+HTML Responsive Layout with Media Query & Flexbox |
+Javascript Data Transformation |
+Browser API - Event Handling, Local Storage, Element manipulation |
+HTTP GET & POST using Form Action and Fetch API |
+Javascript DB - Dynamic Web Page |
+Javascript DB - Web Service |
+OOP-based Javascript Project using Composer |
+Deploy Javascript Project to Cpanel |
+HTML Responsive Layout with Bootstrap |
+Single Page App with React & React-router |
+Dynamic Web Page using Laravel |
+Web Service using Slim |
+News Site using Wordpress |
