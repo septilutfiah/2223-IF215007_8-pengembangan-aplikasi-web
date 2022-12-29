@@ -17,7 +17,7 @@ Domain registration |
 HTML Responsive Layout with Media Query & Flexbox | ![Screenshot (12)](https://user-images.githubusercontent.com/112858041/209974819-337f6901-e516-4301-97c6-f8a04255446b.png)
 Javascript Data Transformation | ![Screenshot (14)](https://user-images.githubusercontent.com/112858041/209975847-adb0ae22-79d4-442f-a035-d380a03fcd39.png)
 Browser API - Event Handling, Local Storage, Element manipulation |
-HTTP GET & POST using Form Action and Fetch API |
+HTTP GET & POST using Form Action and Fetch API | ![Screenshot (19)](https://user-images.githubusercontent.com/112858041/209980644-3ca346fc-c7f2-450c-94c6-7b8466464506.png)
 Javascript DB - Dynamic Web Page |
 Javascript DB - Web Service | ![Screenshot (15)](https://user-images.githubusercontent.com/112858041/209976765-e540d5bd-5974-4c41-9d58-832a64f1028a.png)
 OOP-based Javascript Project using Composer |
